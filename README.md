@@ -1,8 +1,8 @@
 # Web_Development_Project
-### Full-Stack Web Development with course. HTML, CSS, Bootstrap, Javascript, Node, React, MongoDB, Web3 and DApps.
+### Basic implementations I've made.
 
+## Project_1
 https://danielalbuquerq.github.io/Web_Development_Project/ (Project_1)
-
 
 #### Course title section:
 ![alt text](https://github.com/DanielAlbuquerq/Web_Development_Project/blob/main/my_edition/Project_title_section.jpg)
