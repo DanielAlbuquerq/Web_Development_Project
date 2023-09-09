@@ -16,5 +16,5 @@ https://danielalbuquerq.github.io/Web_Development_Project/ (Project_1)
 #### My CSS:
 ![alt text](https://github.com/DanielAlbuquerq/Web_Development_Project/blob/main/my_edition/My_CSS.jpg)
 
-Note: In this basic project, I added more bootstrap class names for a fully responsive mobile-first.
+Note: In this basic project, I added more bootstrap class names for a fully mobile-first.
 
